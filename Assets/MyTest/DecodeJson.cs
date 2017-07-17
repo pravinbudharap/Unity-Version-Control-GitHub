@@ -17,6 +17,14 @@ public class DecodeJson : MonoBehaviour {
 //	public string url = "http://freelyonlinegames.com/mobilegames/ReadJson.json";
 	public string url = "https://junior-photos.000webhostapp.com/JSON_FILES/Test.json";
 
+
+
+	//NEW VARIABLE DECLARATION FOR TESTING
+	private string JsonString1;
+	private JsonData ItemData1;
+	private string FirstJson1,SeconJson1;
+	public Text JsonText11, JsonText21;
+
 	IEnumerator Start()
 	{
 		//JsonString = File.ReadAllText (Application.dataPath + "/MyTest/ReadJson.json");
