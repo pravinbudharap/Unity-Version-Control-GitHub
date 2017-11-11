@@ -11,7 +11,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: budharap
+<<<<<<< HEAD
   productName: github
+=======
+  productName: bitbucket
+>>>>>>> fbade7be29573ce5918597b7c1ee2ab889cf36b4
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
@@ -137,7 +141,11 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
+<<<<<<< HEAD
     Android: com.budharap.github
+=======
+    Android: com.budharap.bitbucket
+>>>>>>> fbade7be29573ce5918597b7c1ee2ab889cf36b4
     Standalone: unity.DefaultCompany.Json_Example
     Tizen: com.Company.ProductName
     iOS: com.Company.ProductName

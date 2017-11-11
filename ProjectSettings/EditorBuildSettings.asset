@@ -7,4 +7,8 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/MyTest/json_test.unity
+<<<<<<< HEAD
     guid: 00000000000000000000000000000000
+=======
+    guid: 85fd33905cf8041499da5d092c963c61
+>>>>>>> fbade7be29573ce5918597b7c1ee2ab889cf36b4

@@ -42,12 +42,9 @@ public class DecodeJson : MonoBehaviour {
 		Debug.Log (JsonString);
 		JsonText1.text = FirstJson;
 		JsonText2.text = SeconJson;
-
 	}
 
 }
-
-
 
 
 
