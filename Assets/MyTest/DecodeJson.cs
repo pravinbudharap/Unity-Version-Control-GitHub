@@ -43,8 +43,8 @@ public class DecodeJson : MonoBehaviour {
 		JsonText1.text = FirstJson;
 		JsonText2.text = SeconJson;
 	}
-
 }
+
 
 //	public int interstitialFrequency = 3;
 //
